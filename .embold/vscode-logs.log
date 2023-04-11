@@ -1,0 +1,1762 @@
+2023-04-09 21:37:51 info: tempDirectory:c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-09 21:37:51 info: Extraction complete for source: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-09 21:37:51 info: Congratulations, your extension "Embold" is now active!
+2023-04-09 21:39:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/.git/config.lock
+2023-04-09 21:39:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:39:18 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/.git/index.lock
+2023-04-09 21:39:18 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:39:38 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/.git/index.lock
+2023-04-09 21:39:38 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:39:39 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/.git/refs/heads/master
+2023-04-09 21:39:39 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/.git/logs/refs/heads/master
+2023-04-09 21:39:39 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:39:39 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:39:43 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/.git/config.lock
+2023-04-09 21:39:43 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:48:44 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/build
+2023-04-09 21:48:44 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:48:52 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/.package-lock.json
+2023-04-09 21:48:52 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/q
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/co
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ms
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/mz
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/arg
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ini
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/raf
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/.bin
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/asap
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/bser
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/etag
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/glob
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/open
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/pify
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/batch
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/bytes
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cssdb
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fresh
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/hoopy
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/kleur
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/leven
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/p-try
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/saxes
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/slash
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/big.js
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cookie
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/globby
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ignore
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-obj
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-wsl
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/merge2
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/redent
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/rimraf
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/stable
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/throat
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/thunky
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unpipe
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/accepts
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ci-info
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/csstype
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/destroy
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/find-up
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/globals
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-glob
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-root
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/isarray
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/kind-of
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/methods
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/mime-db
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/onetime
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/p-limit
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/p-retry
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/thenify
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/type-is
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unquote
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/warning
+2023-04-09 21:49:00 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/anymatch
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/boolbase
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dir-glob
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ee-first
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/emittery
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/error-ex
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/has-flag
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/inflight
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/inherits
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jsonfile
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/mimic-fn
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/p-locate
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/parseurl
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-key
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/punycode
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/readdirp
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/statuses
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/temp-dir
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/acorn-jsx
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/callsites
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/camelcase
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/colorette
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dns-equal
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/encodeurl
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/esrecurse
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/forwarded
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/gzip-size
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/invariant
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-docker
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-module
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-number
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-regexp
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-stream
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/js-tokens
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lru-cache
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/minimatch
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/neo-async
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-type
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/quick-lru
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/strip-bom
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ansi-regex
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/char-regex
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/classnames
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/color-name
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/css.escape
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/decimal.js
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/didyoumean
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dns-packet
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/estraverse
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fill-range
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/get-stream
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-extglob
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/micromatch
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/mime-types
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/min-indent
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/node-int64
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/on-headers
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/parse-json
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-parse
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/picocolors
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-js
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/read-cache
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/regenerate
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/strip-ansi
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ansi-styles
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/array-union
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/buffer-from
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/detect-node
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/emojis-list
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/escape-html
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fb-watchman
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fraction.js
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fs.realpath
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/glob-parent
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/graceful-fs
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/http-errors
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/imurmurhash
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-arrayish
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jsonpointer
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/locate-path
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lodash.uniq
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/media-typer
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/on-finished
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-exists
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/randombytes
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/resolve-cwd
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/safe-buffer
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/signal-exit
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/thenify-all
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/type-detect
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/utils-merge
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ansi-escapes
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/browserslist
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/compressible
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/content-type
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-plain-obj
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lodash.merge
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/loose-envify
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/merge-stream
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/npm-run-path
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/pretty-bytes
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/range-parser
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/resolve-from
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/run-parallel
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/safer-buffer
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/sanitize.css
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/serve-static
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/strip-indent
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/test-exclude
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/toidentifier
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/universalify
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/array-flatten
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/at-least-node
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/camelcase-css
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/color-convert
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/indent-string
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-typedarray
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lodash.sortby
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/multicast-dns
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/normalize-url
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/object-assign
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/parent-module
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-clamp
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/requires-port
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/shebang-regex
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/string-length
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/terminal-link
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/core-js-compat
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/detect-newline
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/find-cache-dir
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/glob-to-regexp
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/global-modules
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/http-parser-js
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-binary-path
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-path-inside
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lodash.memoize
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/normalize-path
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-to-regexp
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-nested
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/proxy-from-env
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/querystringify
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/supports-color
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/to-regex-range
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/util-deprecate
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/brace-expansion
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/builtin-modules
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/default-gateway
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/get-caller-file
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/harmony-reflect
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-generator-fn
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lodash.debounce
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/natural-compare
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/normalize-range
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/queue-microtask
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/shebang-command
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cookie-signature
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/define-lazy-prop
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fast-levenshtein
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/file-entry-cache
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/follow-redirects
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/get-package-type
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-is-absolute
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/stringify-object
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-preset-jest
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/binary-extensions
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-pnp-resolver
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/merge-descriptors
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-normalize
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/recursive-readdir
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/require-directory
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/common-path-prefix
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/convert-source-map
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-page-break
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/react-app-polyfill
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/to-fast-properties
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/collect-v8-coverage
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/content-disposition
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/minimalistic-assert
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/regenerator-runtime
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/require-from-string
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/strip-final-newline
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/strip-json-comments
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/crypto-random-string
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/electron-to-chromium
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/escape-string-regexp
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/natural-compare-lite
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-font-variant
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-media-minmax
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/process-nextick-args
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/serialize-javascript
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-preset-react-app
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/browser-process-hrtime
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/string-natural-compare
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/update-browserslist-db
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/eslint-config-react-app
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-fullwidth-code-point
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/react-lifecycles-compat
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-browser-comments
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/confusing-browser-globals
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-opacity-percentage
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/json-parse-even-better-errors
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-replace-overflow-wrap
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-plugin-named-asset-import
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-potential-custom-element-name
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unicode-match-property-ecmascript
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/case-sensitive-paths-webpack-plugin
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unicode-property-aliases-ecmascript
+2023-04-09 21:49:01 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unicode-canonical-property-names-ecmascript
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:02 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/q
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/co
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ms
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/mz
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/arg
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ini
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/raf
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/.bin
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/asap
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/bser
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/etag
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/glob
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/open
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/pify
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/batch
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/bytes
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cssdb
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fresh
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/hoopy
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/kleur
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/leven
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/p-try
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/saxes
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/slash
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/big.js
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cookie
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/globby
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ignore
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-obj
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-wsl
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/merge2
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/redent
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/rimraf
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/stable
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/throat
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/thunky
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unpipe
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/accepts
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ci-info
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/csstype
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/destroy
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/find-up
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/globals
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-glob
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-root
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/isarray
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/kind-of
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/methods
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/mime-db
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/onetime
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/p-limit
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/p-retry
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/thenify
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/type-is
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unquote
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/anymatch
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/boolbase
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dir-glob
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ee-first
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/emittery
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/error-ex
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/has-flag
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/inflight
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/inherits
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jsonfile
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/mimic-fn
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/p-locate
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/parseurl
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-key
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/punycode
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/readdirp
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/statuses
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/temp-dir
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/acorn-jsx
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/callsites
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/camelcase
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/colorette
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dns-equal
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/encodeurl
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/esrecurse
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/forwarded
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/gzip-size
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/invariant
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-docker
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-module
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-number
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-regexp
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-stream
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/js-tokens
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lru-cache
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/minimatch
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/neo-async
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-type
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/quick-lru
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/strip-bom
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ansi-regex
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/char-regex
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/classnames
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/color-name
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/css.escape
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/decimal.js
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/didyoumean
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dns-packet
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/estraverse
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fill-range
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/get-stream
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-extglob
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/micromatch
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/mime-types
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/min-indent
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/node-int64
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/on-headers
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/parse-json
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-parse
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/picocolors
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-js
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/read-cache
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/regenerate
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/strip-ansi
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ansi-styles
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/array-union
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/buffer-from
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/detect-node
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/emojis-list
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/escape-html
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fb-watchman
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fraction.js
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fs.realpath
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/glob-parent
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/graceful-fs
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/http-errors
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/imurmurhash
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-arrayish
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jsonpointer
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/locate-path
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lodash.uniq
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/media-typer
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/on-finished
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-exists
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/randombytes
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/resolve-cwd
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/safe-buffer
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/signal-exit
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/thenify-all
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/type-detect
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/utils-merge
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ansi-escapes
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/browserslist
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/compressible
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/content-type
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-plain-obj
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lodash.merge
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/loose-envify
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/merge-stream
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/npm-run-path
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/pretty-bytes
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/range-parser
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/resolve-from
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/run-parallel
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/safer-buffer
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/sanitize.css
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/serve-static
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/strip-indent
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/test-exclude
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/toidentifier
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/universalify
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/array-flatten
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/at-least-node
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/camelcase-css
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/color-convert
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/indent-string
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-typedarray
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lodash.sortby
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/multicast-dns
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/normalize-url
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/object-assign
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/parent-module
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-clamp
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/requires-port
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/shebang-regex
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/string-length
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/terminal-link
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/core-js-compat
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/detect-newline
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/find-cache-dir
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/glob-to-regexp
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/global-modules
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/http-parser-js
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-binary-path
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-path-inside
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lodash.memoize
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/normalize-path
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-to-regexp
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-nested
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/proxy-from-env
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/querystringify
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/supports-color
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/to-regex-range
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/util-deprecate
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/brace-expansion
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/builtin-modules
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/default-gateway
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/get-caller-file
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/harmony-reflect
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-generator-fn
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lodash.debounce
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/natural-compare
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/normalize-range
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/queue-microtask
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/shebang-command
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cookie-signature
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/define-lazy-prop
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fast-levenshtein
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/file-entry-cache
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/follow-redirects
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/get-package-type
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/path-is-absolute
+2023-04-09 21:49:03 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/stringify-object
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-preset-jest
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/binary-extensions
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-pnp-resolver
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/merge-descriptors
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-normalize
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/recursive-readdir
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/require-directory
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/common-path-prefix
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/convert-source-map
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-page-break
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/react-app-polyfill
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/to-fast-properties
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/collect-v8-coverage
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/content-disposition
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/minimalistic-assert
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/regenerator-runtime
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/require-from-string
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/strip-final-newline
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/strip-json-comments
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/crypto-random-string
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/electron-to-chromium
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/escape-string-regexp
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/natural-compare-lite
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-font-variant
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-media-minmax
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/process-nextick-args
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/serialize-javascript
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-preset-react-app
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/browser-process-hrtime
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/string-natural-compare
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/update-browserslist-db
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/eslint-config-react-app
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-fullwidth-code-point
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/react-lifecycles-compat
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-browser-comments
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/confusing-browser-globals
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-opacity-percentage
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/json-parse-even-better-errors
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-replace-overflow-wrap
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-plugin-named-asset-import
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-potential-custom-element-name
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unicode-match-property-ecmascript
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/case-sensitive-paths-webpack-plugin
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unicode-property-aliases-ecmascript
+2023-04-09 21:49:04 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unicode-canonical-property-names-ecmascript
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/abab
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/acorn
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/async
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/.cache
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/address
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/asynckit
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/axe-core
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/acorn-walk
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/any-promise
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/array-includes
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ast-types-flow
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/balanced-match
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40eslint-community
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ansi-html-community
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-plugin-macros
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/array.prototype.flat
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/array.prototype.reduce
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/available-typed-arrays
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/acorn-import-assertions
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/array.prototype.flatmap
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-plugin-jest-hoist
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/array.prototype.tosorted
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-plugin-polyfill-corejs3
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-preset-current-node-syntax
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-plugin-polyfill-regenerator
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-plugin-transform-react-remove-prop-types
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/coa
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/chalk
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/braces
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/colord
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/call-bind
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/camel-case
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/concat-map
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/caniuse-api
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/check-types
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/combined-stream
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cjs-module-lexer
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/chrome-trace-event
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/array-buffer-byte-length
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/commondir
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cosmiconfig
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/core-util-is
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/css-blank-pseudo
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/babel-plugin-istanbul
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/css-declaration-sorter
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/css-select-base-adapter
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/css-prefers-color-scheme
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dlv
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ejs
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cssom
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/debug
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cssesc
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dedent
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dequal
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dotenv
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/deep-is
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/doctrine
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/domutils
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dot-case
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/duplexer
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/escalade
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/data-urls
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/deepmerge
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/deep-equal
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/domhandler
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dom-helpers
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/emoji-regex
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dom-converter
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/dotenv-expand
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/css-has-pseudo
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/delayed-stream
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/diff-sequences
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/es-get-iterator
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/es-module-lexer
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/es-to-primitive
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/define-properties
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/es-set-tostringtag
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/damerau-levenshtein
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/es-shim-unscopables
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cssnano-preset-default
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/es-array-method-boxes-properly
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/he
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/has
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/gopd
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/execa
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/espree
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/events
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/expect
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/esprima
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/esquery
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/esutils
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/flatted
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/filesize
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/for-each
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/form-data
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/has-proto
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/flat-cache
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/globalthis
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/file-loader
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/has-bigints
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/eslint-scope
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/handle-thing
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/cssnano-utils
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/estree-walker
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/eventemitter3
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/function-bind
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/get-intrinsic
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fast-deep-equal
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/grapheme-splitter
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/eslint-visitor-keys
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/get-symbol-description
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/function.prototype.name
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/has-property-descriptors
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/eslint-plugin-react-hooks
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fast-json-stable-stringify
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/eslint-plugin-testing-library
+2023-04-09 21:49:05 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/get-own-enumerable-property-symbols
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:05 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/idb
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/isexe
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-map
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-set
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/gensync
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-regex
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ipaddr.js
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-bigint
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-string
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-symbol
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-mock
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/icss-utils
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-weakref
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-weakset
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/htmlparser2
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-callable
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/html-escaper
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/import-local
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-arguments
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/html-entities
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/http-deceiver
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/internal-slot
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-docblock
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-get-type
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-core-module
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-date-object
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-typed-array
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-array-buffer
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-regex-util
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-serializer
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/http-proxy-agent
+2023-04-09 21:49:06 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-negative-zero
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-number-object
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/https-proxy-agent
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-boolean-object
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/error-stack-parser
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-changed-files
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-leak-detector
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/html-webpack-plugin
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/functions-have-names
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/html-minifier-terser
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/html-encoding-sniffer
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/istanbul-lib-coverage
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-environment-node
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/is-shared-array-buffer
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-environment-jsdom
+2023-04-09 21:49:07 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jest-resolve-dependencies
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:07 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:08 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:08 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:08 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/qs
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/psl
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/sax
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/levn
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/mime
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/obuf
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/tmpl
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/tr46
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/wbuf
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/jsesc
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/json5
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/klona
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/react
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/retry
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/tryer
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/tslib
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/utila
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/which
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lodash
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/mkdirp
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/nanoid
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/sockjs
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/walker
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/no-case
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/pirates
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/promise
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/reusify
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/tapable
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/mdn-data
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/minimist
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/react-is
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lilconfig
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/makeerror
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/object-is
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/picomatch
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/react-dom
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/scheduler
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/type-fest
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/url-parse
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/watchpack
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lower-case
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/negotiator
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/optionator
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/param-case
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/prelude-ls
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/selfsigned
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/sisteransi
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/source-map
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/sprintf-js
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/stackframe
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/svg-parser
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/text-table
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/type-check
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/whatwg-url
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/json-schema
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/object-hash
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/object-keys
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/pascal-case
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/sass-loader
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/select-hose
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/shell-quote
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/symbol-tree
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/w3c-hr-time
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/magic-string
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/regexpu-core
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/side-channel
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/whatwg-fetch
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/launch-editor
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/loader-runner
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/object.assign
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/object.hasown
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/object.values
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-place
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/react-refresh
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/source-map-js
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/object.entries
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-import
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-loader
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/setprototypeof
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/string_decoder
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/strip-comments
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/v8-to-istanbul
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-logical
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/react-bootstrap
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/resolve.exports
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/safe-regex-test
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/source-list-map
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unbox-primitive
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/whatwg-mimetype
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/workbox-recipes
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-colormin
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/lines-and-columns
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/source-map-loader
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/w3c-xmlserializer
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/object.fromentries
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-preset-env
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/typed-array-length
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/webidl-conversions
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-load-config
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/react-error-overlay
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-custom-media
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-env-function
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-focus-within
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-selector-not
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-value-parser
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ts-interface-checker
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/typedarray-to-buffer
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-discard-empty
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-focus-visible
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-minify-params
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-modules-scope
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-normalize-url
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/regenerator-transform
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/string.prototype.trim
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/terser-webpack-plugin
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/which-boxed-primitive
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-flexbugs-fixes
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-gap-properties
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-modules-values
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/regexp.prototype.flags
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-color-hex-alpha
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/stop-iteration-iterator
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-custom-selectors
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-dir-pseudo-class
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-minify-gradients
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-normalize-string
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-unique-selectors
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/string.prototype.trimend
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-normalize-charset
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-normalize-unicode
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-reduce-transforms
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/string.prototype.matchall
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-discard-duplicates
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-discard-overridden
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-overflow-shorthand
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/string.prototype.trimstart
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/workbox-cacheable-response
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/workbox-navigation-preload
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-color-rebeccapurple
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-normalize-positions
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-normalize-whitespace
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-pseudo-class-any-link
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/regenerate-unicode-properties
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-modules-extract-imports
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/supports-preserve-symlinks-flag
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/object.getownpropertydescriptors
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-modules-local-by-default
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-color-functional-notation
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-double-position-gradients
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-attribute-case-insensitive
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/postcss-normalize-timing-functions
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/json-stable-stringify-without-jsonify
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/unicode-match-property-value-ecmascript
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ws
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/workbox-sw
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/which-typed-array
+2023-04-09 21:49:09 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/xml-name-validator
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:09 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:10 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:12 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/ws
+2023-04-09 21:49:12 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/workbox-sw
+2023-04-09 21:49:12 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/workbox-recipes
+2023-04-09 21:49:12 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/which-typed-array
+2023-04-09 21:49:12 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/xml-name-validator
+2023-04-09 21:49:12 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/workbox-navigation-preload
+2023-04-09 21:49:12 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:12 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:12 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:12 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:12 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:12 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:16 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40swc
+2023-04-09 21:49:16 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40sinclair
+2023-04-09 21:49:16 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40remix-run
+2023-04-09 21:49:16 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40rushstack
+2023-04-09 21:49:16 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40react-aria
+2023-04-09 21:49:16 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40leichtgewicht
+2023-04-09 21:49:16 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:16 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:16 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:16 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:16 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:16 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:17 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40swc
+2023-04-09 21:49:17 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40sinclair
+2023-04-09 21:49:17 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40remix-run
+2023-04-09 21:49:17 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40rushstack
+2023-04-09 21:49:17 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40react-aria
+2023-04-09 21:49:17 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/%40leichtgewicht
+2023-04-09 21:49:17 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:17 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:17 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:17 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:17 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:17 error: SQLITE_ERROR: no such table: issues
+2023-04-09 21:49:29 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/package-lock.json
+2023-04-09 21:49:29 error: SQLITE_ERROR: no such table: issues
+2023-04-10 09:41:26 info: tempDirectory:c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-10 09:41:26 info: Extraction complete for source: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-10 09:41:26 info: Congratulations, your extension "Embold" is now active!
+2023-04-10 09:45:23 info: file:///e%3A/Projects%20demo/BroCode%20Assignment/backend/frontend/node_modules/fsevents
+2023-04-10 09:45:23 error: SQLITE_ERROR: no such table: issues
